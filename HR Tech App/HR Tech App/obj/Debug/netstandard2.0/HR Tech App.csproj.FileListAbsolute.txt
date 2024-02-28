@@ -1,0 +1,20 @@
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\bin\Debug\netstandard2.0\HR Tech App.deps.json
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\bin\Debug\netstandard2.0\HR Tech App.dll
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\bin\Debug\netstandard2.0\ref\HR Tech App.dll
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\bin\Debug\netstandard2.0\HR Tech App.pdb
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\HR Tech App.csproj.AssemblyReference.cache
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\HR Tech App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\HR Tech App.AssemblyInfoInputs.cache
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\HR Tech App.AssemblyInfo.cs
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\HR Tech App.csproj.CoreCompileInputs.cache
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\HR Tech App.dll
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\refint\HR Tech App.dll
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech App\HR Tech App\obj\Debug\netstandard2.0\HR Tech App.pdb

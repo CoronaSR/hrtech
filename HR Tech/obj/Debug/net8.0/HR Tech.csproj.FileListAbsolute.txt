@@ -1,0 +1,35 @@
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\HR Tech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\HR Tech.AssemblyInfoInputs.cache
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\HR Tech.AssemblyInfo.cs
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\HR Tech.csproj.CoreCompileInputs.cache
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\HR Tech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\HR Tech.RazorAssemblyInfo.cache
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\HR Tech.RazorAssemblyInfo.cs
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\bin\Debug\net8.0\appsettings.json
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\bin\Debug\net8.0\HR Tech.staticwebassets.runtime.json
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\bin\Debug\net8.0\HR Tech.exe
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\bin\Debug\net8.0\HR Tech.deps.json
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\bin\Debug\net8.0\HR Tech.runtimeconfig.json
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\bin\Debug\net8.0\HR Tech.dll
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\bin\Debug\net8.0\HR Tech.pdb
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\staticwebassets\msbuild.HR Tech.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\staticwebassets\msbuild.build.HR Tech.props
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HR Tech.props
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HR Tech.props
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\scopedcss\bundle\HR Tech.styles.css
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\scopedcss\projectbundle\HR Tech.bundle.scp.css
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\HR Tech.dll
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\refint\HR Tech.dll
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\HR Tech.pdb
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\HR Tech.genruntimeconfig.cache
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\ref\HR Tech.dll
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\bin\Debug\net8.0\WebEssentials.AspNetCore.Pwa.dll
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\HR Tech.csproj.AssemblyReference.cache
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\HR Tech.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\HR Tech\obj\Debug\net8.0\HR Tech.csproj.CopyComplete

@@ -1,0 +1,29 @@
+{
+  "name": "HR Tech APP",
+  "short_name": "HR Tech",
+  "description": "App for Human Resources gestion",
+  "icons": [
+    {
+      "src": "/assets/img/icon192x192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/img/icon512x512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/assets/img/120x120.jpg",
+      "type": "image/jpg",
+      "sizes": "120x120"
+    },
+    {
+      "src": "/images/300x300.jpg",
+      "type": "image/jpg",
+      "sizes": "300x300"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}

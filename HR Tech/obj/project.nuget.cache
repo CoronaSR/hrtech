@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJRfkHqgkDYzsvK1+SicDK9SkCl5nf6AAYVUAfVMndj9cCV1OPYfy9ReT7LXDmgZUXf2qdYYfEsfq678rFkQSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech\\HR Tech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yudit\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\yudit\\.nuget\\packages\\webessentials.aspnetcore.pwa\\1.0.85\\webessentials.aspnetcore.pwa.1.0.85.nupkg.sha512"
+  ],
+  "logs": []
+}

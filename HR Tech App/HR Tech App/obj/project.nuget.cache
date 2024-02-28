@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fHflud6vPyK1O04azal+gLApQQ4Gob1AaAop/I9l+K5eOp/QE18Hp1VLG31u1CGF7eanjqHpSQITV2tZqHp/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App\\HR Tech App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yudit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yudit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\yudit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\yudit\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\yudit\\.nuget\\packages\\xamarin.forms\\5.0.0.2545\\xamarin.forms.5.0.0.2545.nupkg.sha512"
+  ],
+  "logs": []
+}
