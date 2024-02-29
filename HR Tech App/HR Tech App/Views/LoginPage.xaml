@@ -8,7 +8,13 @@
              Shell.NavBarIsVisible="False">
     <ContentPage.Content>
         <StackLayout Padding="10,0,10,0" VerticalOptions="Center">
-            <Button VerticalOptions="Center" Text="Login" Command="{Binding LoginCommand}"/>
+            <Label Text="Ingrese Usurario"/>
+            <InputView  TextColor="Bisque"/>
+            <Label Text="Ingrese Contraseña"/>
+            <InputView  TextColor="Bisque"/>
+            <Button VerticalOptions="Center" Text="Iniciar Sesion" Command="{Binding LoginCommand}"/>
+            <!--<Button VerticalOptions="Center" Text="Login" Command="{Binding LoginCommand}"/>-->
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
