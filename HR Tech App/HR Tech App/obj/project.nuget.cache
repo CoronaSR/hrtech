@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+fHflud6vPyK1O04azal+gLApQQ4Gob1AaAop/I9l+K5eOp/QE18Hp1VLG31u1CGF7eanjqHpSQITV2tZqHp/Q==",
+  "dgSpecHash": "bIg6Aan6GmeYWhXkrE95EFFUIw6xm5/felO1oV9PnBBc6jAsOxPTFE0p7fco7Fhg/qgs1ChWTbHNAzUi30+NLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App\\HR Tech App.csproj",
+  "projectFilePath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App\\HR Tech App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yudit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\yudit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

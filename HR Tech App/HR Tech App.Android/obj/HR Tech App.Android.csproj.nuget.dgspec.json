@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App.Android\\HR Tech App.Android.csproj": {}
+    "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App.Android\\HR Tech App.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App.Android\\HR Tech App.Android.csproj": {
+    "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App.Android\\HR Tech App.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App.Android\\HR Tech App.Android.csproj",
+        "projectUniqueName": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App.Android\\HR Tech App.Android.csproj",
         "projectName": "HR Tech App.Android",
-        "projectPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App.Android\\HR Tech App.Android.csproj",
+        "projectPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App.Android\\HR Tech App.Android.csproj",
         "packagesPath": "C:\\Users\\yudit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App.Android\\obj\\",
+        "outputPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App\\HR Tech App.csproj": {
-                "projectPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App\\HR Tech App.csproj"
+              "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App\\HR Tech App.csproj": {
+                "projectPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App\\HR Tech App.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App\\HR Tech App.csproj": {
+    "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App\\HR Tech App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App\\HR Tech App.csproj",
+        "projectUniqueName": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App\\HR Tech App.csproj",
         "projectName": "HR Tech App",
-        "projectPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App\\HR Tech App.csproj",
+        "projectPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App\\HR Tech App.csproj",
         "packagesPath": "C:\\Users\\yudit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App\\obj\\",
+        "outputPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

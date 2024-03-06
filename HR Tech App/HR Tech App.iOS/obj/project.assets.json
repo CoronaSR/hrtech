@@ -1253,11 +1253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App.iOS\\HR Tech App.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App.iOS\\HR Tech App.iOS.csproj",
       "projectName": "HR Tech App.iOS",
-      "projectPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App.iOS\\HR Tech App.iOS.csproj",
+      "projectPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App.iOS\\HR Tech App.iOS.csproj",
       "packagesPath": "C:\\Users\\yudit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App.iOS\\obj\\",
+      "outputPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1278,8 +1278,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App\\HR Tech App.csproj": {
-              "projectPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App\\HR Tech App.csproj"
+            "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App\\HR Tech App.csproj": {
+              "projectPath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App\\HR Tech App.csproj"
             }
           }
         }

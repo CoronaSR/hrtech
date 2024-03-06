@@ -1,24 +1,54 @@
-var builder = WebApplication.CreateBuilder(args);
+using Microsoft.EntityFrameworkCore;
+using HR_Tech.Data;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
+internal class Program {
+    private static void Main(string[] args) {
+        var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddProgressiveWebApp();
+        // Add services to the container.
+        builder.Services.AddControllersWithViews();
 
-var app = builder.Build();
+        builder.Services.AddProgressiveWebApp();
 
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment()) {
-    app.UseExceptionHandler("/Home/Error");
+        builder.Services.AddDbContext<HRContextDB>(options => {
+            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+        });
+
+        builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+        var app = builder.Build();
+
+        // Configure the HTTP request pipeline.
+        if (!app.Environment.IsDevelopment()) {
+            app.UseExceptionHandler("/Home/Error");
+        }
+        app.UseStaticFiles();
+
+        app.UseRouting();
+
+        app.UseAuthorization();
+
+        app.MapControllerRoute(
+            name: "default",
+            pattern: "{controller=Home}/{action=Index}/{id?}");
+
+        CreateDbIfNotExists(app);
+
+        app.Run();
+    }
+
+    private static void CreateDbIfNotExists(IHost host) {
+        using (var scope = host.Services.CreateScope()) {
+            var services = scope.ServiceProvider;
+            try {
+                var context = services.GetRequiredService<HRContextDB>();
+                DbInitializer.Initialize(context);
+            }
+            catch (Exception ex) {
+                var logger = services.GetRequiredService<ILogger<Program>>();
+                logger.LogError(ex, "An error occurred creating the DB.");
+            }
+        }
+    }
 }
-app.UseStaticFiles();
-
-app.UseRouting();
-
-app.UseAuthorization();
-
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
-
-app.Run();

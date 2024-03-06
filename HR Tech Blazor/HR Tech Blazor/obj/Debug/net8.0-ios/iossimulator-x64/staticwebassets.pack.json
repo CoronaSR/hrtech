@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech Blazor\\HR Tech Blazor\\obj\\Debug\\net8.0-ios\\iossimulator-x64\\scopedcss\\bundle\\HR Tech Blazor.styles.css",
+      "PackagePath": "staticwebassets\\HR Tech Blazor.styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.HR Tech Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.build.HR Tech Blazor.props",
+      "PackagePath": "build\\HR Tech Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildMultiTargeting.HR Tech Blazor.props",
+      "PackagePath": "buildMultiTargeting\\HR Tech Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildTransitive.HR Tech Blazor.props",
+      "PackagePath": "buildTransitive\\HR Tech Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

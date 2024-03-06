@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h6Bvl6IiRdNQs3p2Xvr37gKlBercbCI/jvEi+ItnPV8J4D/LwCkmciko0mZGnBkufZWfIhABw2BscqLzRHkWeA==",
+  "dgSpecHash": "wjdod1E6Mn9J6bGujJo3MpPqogEDOUTj6f2rN6aRiyprSKdnYBLYiW4fU14QEZGnPS/ng7uQat+IzAEHCcHGUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App.Android\\HR Tech App.Android.csproj",
+  "projectFilePath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App.Android\\HR Tech App.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yudit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\yudit\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|c:\\users\\user\\source\\repos\\hr tech blazor\\hr tech blazor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|solutionrelative:hr tech blazor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|c:\\users\\user\\source\\repos\\hr tech blazor\\hr tech blazor\\components\\pages\\addupdateusuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|solutionrelative:hr tech blazor\\components\\pages\\addupdateusuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|c:\\users\\user\\source\\repos\\hr tech blazor\\hr tech blazor\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|solutionrelative:hr tech blazor\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|c:\\users\\user\\source\\repos\\hr tech blazor\\hr tech blazor\\services\\usuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|solutionrelative:hr tech blazor\\services\\usuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|c:\\users\\user\\source\\repos\\hr tech blazor\\hr tech blazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|solutionrelative:hr tech blazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|c:\\users\\user\\source\\repos\\hr tech blazor\\hr tech blazor\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|solutionrelative:hr tech blazor\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|c:\\users\\user\\source\\repos\\hr tech blazor\\hr tech blazor\\services\\iusuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|solutionrelative:hr tech blazor\\services\\iusuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|c:\\users\\user\\source\\repos\\hr tech blazor\\hr tech blazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C26662D0-E411-435D-BD25-9031AA268B7A}|HR Tech Blazor\\HR Tech Blazor.csproj|solutionrelative:hr tech blazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\App.xaml",
+              "RelativeDocumentMoniker": "HR Tech Blazor\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\App.xaml",
+              "RelativeToolTip": "HR Tech Blazor\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-29T07:07:35.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "HR Tech Blazor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "HR Tech Blazor\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T05:54:08.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddUpdateUsuario.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\Components\\Pages\\AddUpdateUsuario.razor",
+              "RelativeDocumentMoniker": "HR Tech Blazor\\Components\\Pages\\AddUpdateUsuario.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\Components\\Pages\\AddUpdateUsuario.razor",
+              "RelativeToolTip": "HR Tech Blazor\\Components\\Pages\\AddUpdateUsuario.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T05:53:39.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "HR Tech Blazor\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\MauiProgram.cs",
+              "RelativeToolTip": "HR Tech Blazor\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:51:32.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "HR Tech Blazor\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\Models\\Usuarios.cs",
+              "RelativeToolTip": "HR Tech Blazor\\Models\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:36:35.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\Services\\UsuariosService.cs",
+              "RelativeDocumentMoniker": "HR Tech Blazor\\Services\\UsuariosService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\Services\\UsuariosService.cs",
+              "RelativeToolTip": "HR Tech Blazor\\Services\\UsuariosService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAlwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:32:32.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUsuariosService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\Services\\IUsuariosService.cs",
+              "RelativeDocumentMoniker": "HR Tech Blazor\\Services\\IUsuariosService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\Services\\IUsuariosService.cs",
+              "RelativeToolTip": "HR Tech Blazor\\Services\\IUsuariosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:31:49.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "HR Tech Blazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HR Tech Blazor\\HR Tech Blazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "HR Tech Blazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T05:21:15.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

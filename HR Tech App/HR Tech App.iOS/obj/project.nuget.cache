@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6rw0sn36RYKZfjKhjJP//GWJ7dVXw5oNo7i0pCE6n+52d9gIV7EwntF7hmkbNfyGWLiDkHo//Xl6o2+nVgSHHg==",
+  "dgSpecHash": "SlzwRNLevJKJ0A9a5pC3tG8ELmAJL0rHb/m32fMdWCdulNPz09BeCPRwQNeEV6slPPWsq9we8Og/qEe7XRDW0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\HR Tech App\\HR Tech App.iOS\\HR Tech App.iOS.csproj",
+  "projectFilePath": "C:\\Users\\yudit\\OneDrive\\Documentos\\Enrique\\Varios\\inge\\10\\Alan\\HR Tech\\hrtech\\HR Tech App\\HR Tech App.iOS\\HR Tech App.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yudit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\yudit\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
