@@ -5,8 +5,6 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HR Tech", "HR Tech\HR Tech.csproj", "{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HR Tech Blazor", "HR Tech Blazor\HR Tech Blazor\HR Tech Blazor.csproj", "{FE1A13E6-1FA7-414B-BCC1-D6FE2BD02528}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,18 +27,6 @@ Global
 		{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}.Release|iPhone.Build.0 = Release|Any CPU
 		{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
-		{FE1A13E6-1FA7-414B-BCC1-D6FE2BD02528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FE1A13E6-1FA7-414B-BCC1-D6FE2BD02528}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FE1A13E6-1FA7-414B-BCC1-D6FE2BD02528}.Debug|iPhone.ActiveCfg = Debug|Any CPU
-		{FE1A13E6-1FA7-414B-BCC1-D6FE2BD02528}.Debug|iPhone.Build.0 = Debug|Any CPU
-		{FE1A13E6-1FA7-414B-BCC1-D6FE2BD02528}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
-		{FE1A13E6-1FA7-414B-BCC1-D6FE2BD02528}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
-		{FE1A13E6-1FA7-414B-BCC1-D6FE2BD02528}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FE1A13E6-1FA7-414B-BCC1-D6FE2BD02528}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FE1A13E6-1FA7-414B-BCC1-D6FE2BD02528}.Release|iPhone.ActiveCfg = Release|Any CPU
-		{FE1A13E6-1FA7-414B-BCC1-D6FE2BD02528}.Release|iPhone.Build.0 = Release|Any CPU
-		{FE1A13E6-1FA7-414B-BCC1-D6FE2BD02528}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
-		{FE1A13E6-1FA7-414B-BCC1-D6FE2BD02528}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

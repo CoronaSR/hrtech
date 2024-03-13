@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
     <title>CORK Admin Template - To-do List</title>
-    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico"/>
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
     <link href="assets/css/loader.css" rel="stylesheet" type="text/css" />
     <script src="assets/js/loader.js"></script>
     <!-- BEGIN GLOBAL MANDATORY STYLES -->
@@ -14,14 +14,60 @@
     <link href="assets/css/plugins.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/structure.css" rel="stylesheet" type="text/css" class="structure" />
     <!-- END GLOBAL MANDATORY STYLES -->
-
     <!--  BEGIN CUSTOM STYLE FILE  -->
     <link rel="stylesheet" type="text/css" href="plugins/editors/quill/quill.snow.css">
     <link rel="stylesheet" type="text/css" href="assets/css/forms/theme-checkbox-radio.css">
     <link href="assets/css/apps/todolist.css" rel="stylesheet" type="text/css" />
     <!--  END CUSTOM STYLE FILE  -->
+    <style>
+        .navbar .navbar-item.navbar-dropdown {
+            margin-left: auto;
+        }
+
+
+        .alt-menu #content .col-right {
+            position: fixed;
+            top: 0;
+            width: 310px;
+            right: -380px;
+            border-radius: 0;
+            z-index: 1029 !important;
+            transition: .3s ease all;
+            width: 348px;
+        }
+
+            .alt-menu #content .col-right.show {
+                right: 0;
+            }
+
+        .alt-menu.admin-header .toggle-notification-bar {
+            display: block;
+            cursor: pointer;
+        }
+
+        .alt-menu.overlay.show {
+            display: block;
+            opacity: .7;
+        }
+
+        .alt-menu.admin-header .toggle-notification-bar svg {
+            width: 19px;
+            height: 19px;
+            stroke-width: 1.6px;
+        }
+
+        .alt-menu .col-right-content .col-right-content-container {
+            position: relative;
+            height: calc(100vh - 92px);
+            padding: 0 0 0 0;
+        }
+
+        #content .col-left {
+            margin-right: 0;
+        }
+    </style>
 </head>
-<body class="application admin-header">
+<body class="sidebar-noneoverflow starterkit admin-header alt-menu">
 
     <!-- BEGIN LOADER -->
     <div id="load_screen"> <div class="loader"> <div class="loader-content">
