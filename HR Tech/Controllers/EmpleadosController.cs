@@ -153,5 +153,31 @@ namespace HR_Tech.Controllers
         {
             return _context.Empleados.Any(e => e.IdEmpleado == id);
         }
+
+        // POST: Empleados/Login
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Login(LoginViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var empleado = await _context.Empleados.FirstOrDefaultAsync(e => e.Nombre == model.Nombre && e.Departamento == model.Departamento);
+
+                if (empleado != null)
+                {
+                    // Aquí puedes implementar la lógica de autenticación
+                    // Por ejemplo, establecer cookies de autenticación
+
+                    return RedirectToAction("Index", "Home"); // Redirigir a la página principal
+                }
+                else
+                {
+                    ModelState.AddModelError(string.Empty, "Datos Incorrectos");
+                    return View(model);
+                }
+            }
+
+            return View(model);
+        }
     }
 }
