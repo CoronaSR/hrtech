@@ -149,6 +149,63 @@ namespace HR_Tech.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        // POST: Solisitudes/Delete/5
+        [HttpPost, ActionName("Rechazar")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> RechazarConfirmed(int id)
+        {
+            var solicitud = await _context.Solicitud.FindAsync(id);
+            if (solicitud != null)
+            {
+                solicitud.Estatus = EstatusSolicitud.RECHAZADA; // Cambia el estado a "Rechazada"
+                _context.Solicitud.Update(solicitud);
+                await _context.SaveChangesAsync();
+            }
+            return RedirectToAction(nameof(Index));
+        }
+
+        // POST: Solisitudes/Delete/5
+        [HttpPost, ActionName("Aprobar")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> AprobarConfirmed(int id)
+        {
+            var solicitud = await _context.Solicitud.FindAsync(id);
+            if (solicitud != null) {
+                solicitud.Estatus = EstatusSolicitud.APROBADA; // Cambia el estado a "Aprobada"
+                _context.Solicitud.Update(solicitud);
+                await _context.SaveChangesAsync();
+            }
+            return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> Aprobar(int? id) {
+            if (id == null) {
+                return NotFound();
+            }
+
+            var solicitud = await _context.Solicitud
+                .FirstOrDefaultAsync(m => m.IdSolicitud == id);
+            if (solicitud == null) {
+                return NotFound();
+            }
+
+            return View(solicitud);
+        }
+
+        public async Task<IActionResult> Rechazar(int? id) {
+            if (id == null) {
+                return NotFound();
+            }
+
+            var solicitud = await _context.Solicitud
+                .FirstOrDefaultAsync(m => m.IdSolicitud == id);
+            if (solicitud == null) {
+                return NotFound();
+            }
+
+            return View(solicitud);
+        }
+
         private bool SolicitudExists(int id)
         {
             return _context.Solicitud.Any(e => e.IdSolicitud == id);
