@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HR Tech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3c8404f003b08d97857d006998c1d59ab590f83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5b44dceed3c266de882c867e4aff2bbae72525d")]
 [assembly: System.Reflection.AssemblyProductAttribute("HR Tech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HR Tech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

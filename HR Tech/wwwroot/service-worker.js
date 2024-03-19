@@ -3,7 +3,7 @@
     // Service Worker installation
     self.addEventListener('install', function (event) {
         event.waitUntil(
-            caches.open('v2').then(function (cache) {
+            caches.open('v1').then(function (cache) {
                 return cache.addAll([
                     // Add URLs of assets to cache
                     '/css/site.css',
@@ -55,7 +55,7 @@
                         var responseToCache = response.clone();
 
                         // Cache the fetched response
-                        caches.open('v2').then(function (cache) {
+                        caches.open('v1').then(function (cache) {
                             cache.put(event.request, responseToCache);
                         });
                     }

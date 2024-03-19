@@ -11,7 +11,7 @@ internal class Program {
         // Add services to the container.
         builder.Services.AddControllersWithViews();
 
-        builder.Services.AddServiceWorker(new PwaOptions { 
+        builder.Services.AddServiceWorker(new PwaOptions {
             Strategy = ServiceWorkerStrategy.CustomStrategy,
             CustomServiceWorkerStrategyFileName = "service-worker.js",
             OfflineRoute = "offline.html",
