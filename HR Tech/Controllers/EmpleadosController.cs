@@ -173,7 +173,7 @@ namespace HR_Tech.Controllers
                     // Aquí puedes implementar la lógica de autenticación
                     // Por ejemplo, establecer cookies de autenticación
 
-                    return RedirectToAction("Index", "Home"); // Redirigir a la página principal
+                    return RedirectToAction("Solicitudes", "Empleados"); // Redirigir a la página principal
                 }
                 else
                 {

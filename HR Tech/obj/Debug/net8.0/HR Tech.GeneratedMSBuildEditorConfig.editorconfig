@@ -17,115 +17,119 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HR_Tech
 build_property.RootNamespace = HR_Tech
-build_property.ProjectDir = C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\hrtech\HR Tech\
+build_property.ProjectDir = C:\Users\Marki\source\repos\CoronaSR\hrtech\HR Tech\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\yudit\OneDrive\Documentos\Enrique\Varios\inge\10\Alan\HR Tech\hrtech\HR Tech
+build_property.MSBuildProjectDirectory = C:\Users\Marki\source\repos\CoronaSR\hrtech\HR Tech
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Dashboard/Index.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Empleados/Create.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Empleados/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Empleados/Delete.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Empleados/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Empleados/Details.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Empleados/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Empleados/Edit.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Empleados/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Empleados/Index.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Empleados/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Empleados/Login.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Empleados/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Home/Index.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Empleados/Solicitudes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXFNvbGljaXR1ZGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Home/Privacy.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Shared/Error.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Solicitudes/Create.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Solicitudes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdHVkZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Solicitudes/Delete.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Solicitudes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdHVkZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Solicitudes/Details.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Solicitudes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdHVkZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Solicitudes/Edit.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Solicitudes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdHVkZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Solicitudes/Index.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Solicitudes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdHVkZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Solicitudes/Rechazar.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Solicitudes/Rechazar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdHVkZXNcUmVjaGF6YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Usuarios/Create.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Usuarios/Delete.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Usuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Usuarios/Details.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Usuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Usuarios/Edit.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Usuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Usuarios/Index.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Usuarios/Login.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Usuarios/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/_ViewImports.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/_ViewStart.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yudit/OneDrive/Documentos/Enrique/Varios/inge/10/Alan/HR Tech/hrtech/HR Tech/Views/Shared/_Layout.cshtml]
+[C:/Users/Marki/source/repos/CoronaSR/hrtech/HR Tech/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-nb2ik9mtlq

@@ -2,8 +2,8 @@
 
 namespace HR_Tech.Models {
     public class LoginViewModelE {
-
-
+        
+  
         [Required(ErrorMessage = "El campo Nombre es obligatorio.")]
         public string Nombre { get; set; }
 
