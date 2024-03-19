@@ -84,6 +84,20 @@
     </style>
     @RenderSection("Styles", required: false)
     <!-- END PAGE LEVEL PLUGINS/CUSTOM STYLES -->
+
+    <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+    <script>
+        window.OneSignalDeferred = window.OneSignalDeferred || [];
+        OneSignalDeferred.push(function (OneSignal) {
+            OneSignal.init({
+                appId: "689778c9-bad4-4a93-8a74-ac0528f6352c",
+                safari_web_id: "web.onesignal.auto.05605657-a1ec-46ab-8d61-441038586900",
+                notifyButton: {
+                    enable: true,
+                },
+            });
+        });
+    </script>
 </head>
 <body class="sidebar-noneoverflow starterkit admin-header alt-menu">
     <!-- BEGIN LOADER -->

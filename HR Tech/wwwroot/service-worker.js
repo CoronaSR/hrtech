@@ -75,3 +75,4 @@
     var routes = "{routes}";
     var routesToIgnore = "{ignoreRoutes}";
 });
+

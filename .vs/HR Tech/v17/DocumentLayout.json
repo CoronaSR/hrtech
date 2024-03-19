@@ -1,30 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marki\\source\\repos\\CoronaSR\\hrtech\\",
+  "WorkspaceRootPath": "C:\\Users\\Erik Humberto\\source\\repos\\hrtech\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\marki\\source\\repos\\coronasr\\hrtech\\hr tech\\views\\empleados\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\views\\empleados\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\erik humberto\\source\\repos\\hrtech\\hr tech\\wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\marki\\source\\repos\\coronasr\\hrtech\\hr tech\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\erik humberto\\source\\repos\\hrtech\\hr tech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\marki\\source\\repos\\coronasr\\hrtech\\hr tech\\models\\loginviewmodele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\models\\loginviewmodele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\marki\\source\\repos\\coronasr\\hrtech\\hr tech\\views\\empleados\\solicitudes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\views\\empleados\\solicitudes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\marki\\source\\repos\\coronasr\\hrtech\\hr tech\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\marki\\source\\repos\\coronasr\\hrtech\\hr tech\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\erik humberto\\source\\repos\\hrtech\\hr tech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,97 +29,54 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Solicitudes.cshtml",
-              "DocumentMoniker": "C:\\Users\\Marki\\source\\repos\\CoronaSR\\hrtech\\HR Tech\\Views\\Empleados\\Solicitudes.cshtml",
-              "RelativeDocumentMoniker": "HR Tech\\Views\\Empleados\\Solicitudes.cshtml",
-              "ToolTip": "C:\\Users\\Marki\\source\\repos\\CoronaSR\\hrtech\\HR Tech\\Views\\Empleados\\Solicitudes.cshtml",
-              "RelativeToolTip": "HR Tech\\Views\\Empleados\\Solicitudes.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T05:35:01.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Marki\\source\\repos\\CoronaSR\\hrtech\\HR Tech\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "HR Tech\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\Marki\\source\\repos\\CoronaSR\\hrtech\\HR Tech\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "HR Tech\\Data\\DbInitializer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAB5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T05:22:35.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Marki\\source\\repos\\CoronaSR\\hrtech\\HR Tech\\Views\\Usuarios\\Index.cshtml",
-              "RelativeDocumentMoniker": "HR Tech\\Views\\Usuarios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Marki\\source\\repos\\CoronaSR\\hrtech\\HR Tech\\Views\\Usuarios\\Index.cshtml",
-              "RelativeToolTip": "HR Tech\\Views\\Usuarios\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T00:45:54.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Marki\\source\\repos\\CoronaSR\\hrtech\\HR Tech\\Views\\Empleados\\Login.cshtml",
-              "RelativeDocumentMoniker": "HR Tech\\Views\\Empleados\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Marki\\source\\repos\\CoronaSR\\hrtech\\HR Tech\\Views\\Empleados\\Login.cshtml*",
-              "RelativeToolTip": "HR Tech\\Views\\Empleados\\Login.cshtml*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T05:05:10.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "service-worker.js",
+              "DocumentMoniker": "C:\\Users\\Erik Humberto\\source\\repos\\hrtech\\HR Tech\\wwwroot\\service-worker.js",
+              "RelativeDocumentMoniker": "HR Tech\\wwwroot\\service-worker.js",
+              "ToolTip": "C:\\Users\\Erik Humberto\\source\\repos\\hrtech\\HR Tech\\wwwroot\\service-worker.js",
+              "RelativeToolTip": "HR Tech\\wwwroot\\service-worker.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T18:59:15.009Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmpleadosController.cs",
-              "DocumentMoniker": "C:\\Users\\Marki\\source\\repos\\CoronaSR\\hrtech\\HR Tech\\Controllers\\EmpleadosController.cs",
-              "RelativeDocumentMoniker": "HR Tech\\Controllers\\EmpleadosController.cs",
-              "ToolTip": "C:\\Users\\Marki\\source\\repos\\CoronaSR\\hrtech\\HR Tech\\Controllers\\EmpleadosController.cs",
-              "RelativeToolTip": "HR Tech\\Controllers\\EmpleadosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T00:09:12.354Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erik Humberto\\source\\repos\\hrtech\\HR Tech\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HR Tech\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Erik Humberto\\source\\repos\\hrtech\\HR Tech\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HR Tech\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEYAAAAANDMzMzMLwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T18:40:56.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginViewModelE.cs",
-              "DocumentMoniker": "C:\\Users\\Marki\\source\\repos\\CoronaSR\\hrtech\\HR Tech\\Models\\LoginViewModelE.cs",
-              "RelativeDocumentMoniker": "HR Tech\\Models\\LoginViewModelE.cs",
-              "ToolTip": "C:\\Users\\Marki\\source\\repos\\CoronaSR\\hrtech\\HR Tech\\Models\\LoginViewModelE.cs",
-              "RelativeToolTip": "HR Tech\\Models\\LoginViewModelE.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T05:20:16.269Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erik Humberto\\source\\repos\\hrtech\\HR Tech\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HR Tech\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Erik Humberto\\source\\repos\\hrtech\\HR Tech\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HR Tech\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T18:40:46.777Z",
               "EditorCaption": ""
             }
           ]
