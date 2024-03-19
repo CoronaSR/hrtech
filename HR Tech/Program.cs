@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using HR_Tech.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using WebEssentials.AspNetCore.Pwa;
 
 internal class Program {
     private static void Main(string[] args) {
@@ -10,7 +11,12 @@ internal class Program {
         // Add services to the container.
         builder.Services.AddControllersWithViews();
 
-        builder.Services.AddProgressiveWebApp();
+        builder.Services.AddServiceWorker(new PwaOptions { 
+            Strategy = ServiceWorkerStrategy.CustomStrategy,
+            CustomServiceWorkerStrategyFileName = "service-worker.js",
+            OfflineRoute = "offline.html",
+            RoutesToIgnore = ""
+        });
 
         builder.Services.AddDbContext<HRContextDB>(options => {
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
@@ -31,7 +37,7 @@ internal class Program {
 
         app.MapControllerRoute(
             name: "default",
-            pattern: "{controller=Home}/{action=Index}/{id?}");
+            pattern: "{controller=Usuarios}/{action=Login}/{id?}");
 
         CreateDbIfNotExists(app);
 

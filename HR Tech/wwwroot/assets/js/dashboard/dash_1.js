@@ -182,10 +182,10 @@ try {
           colors: ['transparent']
       },
       series: [{
-          name: 'Direct',
+          name: 'Aprobados',
           data: [58, 44, 55, 57, 56, 61, 58, 63, 60, 66, 56, 63]
       }, {
-        name: 'Organic',
+        name: 'Solicitados',
         data: [91, 76, 85, 101, 98, 87, 105, 91, 114, 94, 66, 70]
       }],
       xaxis: {

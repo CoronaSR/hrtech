@@ -44,9 +44,8 @@
                 @Html.DisplayFor(modelItem => item.FechaSolicitud)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.IdSolicitud">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.IdSolicitud">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.IdSolicitud">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.IdSolicitud">Aprobar</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdSolicitud">Rechazar</a>
             </td>
         </tr>
 }

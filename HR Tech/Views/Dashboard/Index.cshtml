@@ -5,3 +5,176 @@
     ViewBag.PageDescription = "Hola, esta es la descripción";
 }
 
+@section Styles {
+    <link href="~/plugins/apex/apexcharts.css" rel="stylesheet" type="text/css">
+    <link href="~/assets/css/dashboard/dash_1.css" rel="stylesheet" type="text/css" class="dashboard-analytics" />
+    <link href="~/assets/css/dashboard/dash_2.css" rel="stylesheet" type="text/css" class="dashboard-sales" />
+}
+
+<div class="row">
+    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 layout-spacing">
+        <div class="widget widget-one">
+            <div class="widget-heading">
+                <h6 class="">Estadísticas</h6>
+            </div>
+            <div class="w-chart">
+
+                <div class="w-chart-section total-visits-content">
+                    <div class="w-detail">
+                        <p class="w-title">Días solicitados</p>
+                        <p class="w-stats">1,100</p>
+                    </div>
+                    <div class="w-chart-render-one">
+                        <div id="total-users"></div>
+                    </div>
+                </div>
+
+
+                <div class="w-chart-section paid-visits-content">
+                    <div class="w-detail">
+                        <p class="w-title">Días aprobados</p>
+                        <p class="w-stats">589</p>
+                    </div>
+                    <div class="w-chart-render-one">
+                        <div id="paid-visits"></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 layout-spacing">
+        <div class="widget widget-table-one">
+            <div class="widget-heading">
+                <h5 class="">Top áreas</h5>
+                <div class="task-action">
+                    <div class="dropdown">
+                        <a class="dropdown-toggle" href="#" role="button" id="pendingTask" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-more-horizontal"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+                        </a>
+
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="pendingTask" style="will-change: transform;">
+                            <a class="dropdown-item" href="javascript:void(0);">View Report</a>
+                            <a class="dropdown-item" href="javascript:void(0);">Edit Report</a>
+                            <a class="dropdown-item" href="javascript:void(0);">Mark as Done</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="widget-content">
+                <div class="transactions-list">
+                    <div class="t-item">
+                        <div class="t-company-name">
+                            <div class="t-icon">
+                                <div class="icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+                                </div>
+                            </div>
+                            <div class="t-name">
+                                <h4>Calidad</h4>
+                                <p class="meta-date"></p>
+                            </div>
+
+                        </div>
+                        <div class="t-rate rate-dec">
+                            <p><span>190</span></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="transactions-list t-info">
+                    <div class="t-item">
+                        <div class="t-company-name">
+                            <div class="t-icon">
+                                <div class="avatar avatar-xl">
+                                    <span class="avatar-title">MT</span>
+                                </div>
+                            </div>
+                            <div class="t-name">
+                                <h4>Mantenimiento</h4>
+                                <p class="meta-date"></p>
+                            </div>
+                        </div>
+                        <div class="t-rate rate-inc">
+                            <p><span>163</span></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="transactions-list">
+                    <div class="t-item">
+                        <div class="t-company-name">
+                            <div class="t-icon">
+                                <div class="avatar avatar-xl">
+                                    <span class="avatar-title">SV</span>
+                                </div>
+                            </div>
+                            <div class="t-name">
+                                <h4>Seguridad y Vigilancia</h4>
+                                <p class="meta-date"></p>
+                            </div>
+
+                        </div>
+                        <div class="t-rate rate-inc">
+                            <p><span>98</span></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="transactions-list t-secondary">
+                    <div class="t-item">
+                        <div class="t-company-name">
+                            <div class="t-icon">
+                                <div class="avatar avatar-xl">
+                                    <span class="avatar-title">TI</span>
+                                </div>
+                            </div>
+                            <div class="t-name">
+                                <h4>Tecnologías de la Información</h4>
+                                <p class="meta-date"></p>
+                            </div>
+
+                        </div>
+                        <div class="t-rate rate-dec">
+                            <p><span>65</span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 layout-spacing">
+        <div class="widget widget-chart-three">
+            <div class="widget-heading">
+                <div class="">
+                    <h5 class="">Solicitudes por mes</h5>
+                </div>
+
+                <div class="dropdown ">
+                    <a class="dropdown-toggle" href="#" role="button" id="uniqueVisitors" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-more-horizontal"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+                    </a>
+
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="uniqueVisitors">
+                        <a class="dropdown-item" href="javascript:void(0);">View</a>
+                        <a class="dropdown-item" href="javascript:void(0);">Update</a>
+                        <a class="dropdown-item" href="javascript:void(0);">Download</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="widget-content">
+                <div id="uniqueVisits"></div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+@section CustomScripts {
+
+    <script src="~/plugins/apex/apexcharts.min.js"></script>
+    <script src="~/assets/js/dashboard/dash_1.js"></script>
+    <script src="~/assets/js/dashboard/dash_2.js"></script>
+}

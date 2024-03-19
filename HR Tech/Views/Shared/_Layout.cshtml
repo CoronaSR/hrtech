@@ -82,7 +82,7 @@
         }
 
     </style>
-
+    @RenderSection("Styles", required: false)
     <!-- END PAGE LEVEL PLUGINS/CUSTOM STYLES -->
 </head>
 <body class="sidebar-noneoverflow starterkit admin-header alt-menu">
@@ -123,7 +123,7 @@
                                 <div class="base-icons">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-terminal"><polyline points="4 17 10 11 4 5"></polyline><line x1="12" y1="19" x2="20" y2="19"></line></svg>
                                 </div>
-                                <span>Starter Kit</span>
+                                <span>Inicio</span>
                             </div>
                         </a>
                     </li>
@@ -180,7 +180,7 @@
                 <div class="submenu" id="starterKit">
                     <ul class="submenu-list" data-parent-element="#starterKit"> 
                         <li>
-                            <a href="starter_kit_blank_page.html"> <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-git-commit"><circle cx="12" cy="12" r="4"></circle><line x1="1.05" y1="12" x2="7" y2="12"></line><line x1="17.01" y1="12" x2="22.96" y2="12"></line></svg></span> Blank Page </a>
+                            <a asp-area="" asp-controller="Dashboard" asp-action="Index"> <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-git-commit"><circle cx="12" cy="12" r="4"></circle><line x1="1.05" y1="12" x2="7" y2="12"></line><line x1="17.01" y1="12" x2="22.96" y2="12"></line></svg></span> Dashboards </a>
                         </li>
                         <li>
                             <a href="starter_kit_breadcrumb.html"> <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-git-commit"><circle cx="12" cy="12" r="4"></circle><line x1="1.05" y1="12" x2="7" y2="12"></line><line x1="17.01" y1="12" x2="22.96" y2="12"></line></svg></span> Breadcrumb </a>
@@ -576,21 +576,10 @@
     </script>
     <script src="~/assets/js/custom.js"></script>
     <!-- END GLOBAL MANDATORY SCRIPTS -->
-    <script>
-        if ('serviceWorker' in navigator) {
-            window.addEventListener('load', function () {
-                navigator.serviceWorker.register('/service-worker.js')
-                    .then(function (registration) {
-                        console.log('Service Worker registered with scope:', registration.scope);
-                    })
-                    .catch(function (error) {
-                        console.error('Service Worker registration failed:', error);
-                    });
-            });
-        }
-    </script>
+    <script>'serviceWorker'in navigator&&navigator.serviceWorker.register('/serviceworker')</script>
 
     <!-- BEGIN PAGE LEVEL PLUGINS/CUSTOM SCRIPTS -->
     @await RenderSectionAsync("Scripts", required: false)
+    @RenderSection("CustomScripts", required: false)
 </body>
 </html>

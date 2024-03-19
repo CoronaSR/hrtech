@@ -154,10 +154,15 @@ namespace HR_Tech.Controllers
             return _context.Empleados.Any(e => e.IdEmpleado == id);
         }
 
+        // GET: Usuarios/Login
+        public IActionResult Login() {
+            return View();
+        }
+
         // POST: Empleados/Login
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Login(LoginViewModel model)
+        public async Task<IActionResult> Login(LoginViewModelE model)
         {
             if (ModelState.IsValid)
             {
