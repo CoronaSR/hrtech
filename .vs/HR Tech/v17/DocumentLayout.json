@@ -3,52 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\plantilla\\auth_login_boxed.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\plantilla\\auth_login_boxed.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|solutionrelative:hr tech\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C62848D0-7BDD-49B7-BEB3-C0FABB77E1AD}|HR Tech\\HR Tech.csproj|c:\\users\\jared\\onedrive\\escritorio\\projects\\hrtech\\hr tech\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,115 +37,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "auth_login_boxed.html",
-              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Plantilla\\auth_login_boxed.html",
-              "RelativeDocumentMoniker": "HR Tech\\Plantilla\\auth_login_boxed.html",
-              "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Plantilla\\auth_login_boxed.html",
-              "RelativeToolTip": "HR Tech\\Plantilla\\auth_login_boxed.html",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFwAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-03-19T01:08:51.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Usuarios\\Login.cshtml",
-              "RelativeDocumentMoniker": "HR Tech\\Views\\Usuarios\\Login.cshtml",
-              "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Usuarios\\Login.cshtml",
-              "RelativeToolTip": "HR Tech\\Views\\Usuarios\\Login.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T01:03:09.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "HR Tech\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "HR Tech\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T00:35:57.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "HR Tech\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "HR Tech\\Models\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T01:05:27.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Usuarios\\Index.cshtml",
-              "RelativeDocumentMoniker": "HR Tech\\Views\\Usuarios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Usuarios\\Index.cshtml",
-              "RelativeToolTip": "HR Tech\\Views\\Usuarios\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T00:45:54.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Controllers\\Dashboard.cs",
-              "RelativeDocumentMoniker": "HR Tech\\Controllers\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Controllers\\Dashboard.cs",
-              "RelativeToolTip": "HR Tech\\Controllers\\Dashboard.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T00:44:22.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Usuarios\\Create.cshtml",
-              "RelativeDocumentMoniker": "HR Tech\\Views\\Usuarios\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Usuarios\\Create.cshtml",
-              "RelativeToolTip": "HR Tech\\Views\\Usuarios\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T00:39:06.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "HR Tech\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "HR Tech\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T00:34:20.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "HR Tech\\Views\\_ViewStart.cshtml",
@@ -182,19 +50,33 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-19T00:32:12.583Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Empleados.cs",
-              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Models\\Empleados.cs",
-              "RelativeDocumentMoniker": "HR Tech\\Models\\Empleados.cs",
-              "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Models\\Empleados.cs",
-              "RelativeToolTip": "HR Tech\\Models\\Empleados.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T00:23:57.268Z",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Usuarios\\Login.cshtml",
+              "RelativeDocumentMoniker": "HR Tech\\Views\\Usuarios\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Usuarios\\Login.cshtml",
+              "RelativeToolTip": "HR Tech\\Views\\Usuarios\\Login.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAEcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T01:03:09.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "HR Tech\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "HR Tech\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T00:45:54.746Z",
               "EditorCaption": ""
             },
             {
@@ -211,20 +93,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "HR Tech\\Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "HR Tech\\Controllers\\UsuariosController.cs",
-              "ViewState": "AQIAAKQAAAAAAAAAAAAiwLoAAAAJAAAA",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAMwLoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T00:09:30.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "HR Tech\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Models\\Usuarios.cs",
+              "RelativeToolTip": "HR Tech\\Models\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:07:32.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EmpleadosController.cs",
               "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Controllers\\EmpleadosController.cs",
               "RelativeDocumentMoniker": "HR Tech\\Controllers\\EmpleadosController.cs",
@@ -238,19 +133,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Models\\Usuarios.cs",
-              "RelativeDocumentMoniker": "HR Tech\\Models\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\jared\\OneDrive\\Escritorio\\PROJECTS\\hrtech\\HR Tech\\Models\\Usuarios.cs",
-              "RelativeToolTip": "HR Tech\\Models\\Usuarios.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T00:07:32.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "dbo.Usuarios [Datos]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/HRTech/True/SqlTable/dbo.Usuarios.sql",
               "ToolTip": "dbo.Usuarios [Datos]",

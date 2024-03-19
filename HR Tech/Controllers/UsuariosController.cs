@@ -178,7 +178,7 @@ namespace HR_Tech.Controllers
                 }
                 else
                 {
-                    ModelState.AddModelError(string.Empty, "Usuario o contraseña incorrectos.");
+                    ViewData["ErrorMessage"] = "Usuario o contraseña incorrectos.";
                     return View(model);
                 }
             }
