@@ -8,12 +8,13 @@ using Microsoft.EntityFrameworkCore;
 using HR_Tech.Data;
 using HR_Tech.Models;
 
+
 namespace HR_Tech.Controllers
 {
     public class EmpleadosController : Controller
     {
         private readonly HRContextDB _context;
-
+      
         public EmpleadosController(HRContextDB context)
         {
             _context = context;
@@ -47,6 +48,35 @@ namespace HR_Tech.Controllers
         public IActionResult Create()
         {
             return View();
+        }
+
+        // GET: Empleados-Solicitudes
+        public async Task<IActionResult> Solicitudes (int? id)
+        {
+   
+            //nombre = "Enrique";
+            if (id == null)
+            {
+                return NotFound();
+            }
+            var solicitud = (from s in _context.Solicitud.Where(x => x.IdEmpleado == id)
+                             from e in _context.Empleados.Where(x => x.IdEmpleado == s.IdEmpleado)
+                             .DefaultIfEmpty()
+                             select new SolicitudViewModel
+                             {
+                                 Descripcion = s.Descripcion,
+                                 Nombre = e.Nombre,
+                                 DiasSolicitados = s.DiasSolicitados,
+                                 Departamento = e.Departamento
+                             }).ToList();
+            if (solicitud == null)
+            {
+                return NotFound();
+            }
+
+            return View(solicitud);
+
+            //return View(await _context.Empleados.ToListAsync());
         }
 
         // POST: Empleados/Create
@@ -173,7 +203,7 @@ namespace HR_Tech.Controllers
                     // Aquí puedes implementar la lógica de autenticación
                     // Por ejemplo, establecer cookies de autenticación
 
-                    return RedirectToAction("Solicitudes", "Empleados"); // Redirigir a la página principal
+                    return RedirectToAction("Solicitudes", "Empleados", new {id = empleado.IdEmpleado}); // Redirigir a la página de la vista de solicitudes de empleados
                 }
                 else
                 {
