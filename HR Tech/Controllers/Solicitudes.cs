@@ -10,11 +10,11 @@ using HR_Tech.Models;
 
 namespace HR_Tech.Controllers
 {
-    public class Solicitudes : Controller
+    public class SolicitudesController : Controller
     {
         private readonly HRContextDB _context;
 
-        public Solicitudes(HRContextDB context)
+        public SolicitudesController(HRContextDB context)
         {
             _context = context;
         }
@@ -35,6 +35,31 @@ namespace HR_Tech.Controllers
 
             var solicitud = await _context.Solicitud
                 .FirstOrDefaultAsync(m => m.IdSolicitud == id);
+            if (solicitud == null)
+            {
+                return NotFound();
+            }
+
+            return View(solicitud);
+        }
+        public IActionResult Solicitudes(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var solicitud = (from s in _context.Solicitud
+                             from e in _context.Empleados.Where(x => x.IdEmpleado == s.IdEmpleado)
+                             .DefaultIfEmpty()
+                             select new
+                             {
+                                 descripcion = s.Descripcion,
+                                 nombre = e.Nombre,
+                                 dias = s.DiasSolicitados,
+                                 departamento = e.Departamento
+                             }).ToList();
+
             if (solicitud == null)
             {
                 return NotFound();
